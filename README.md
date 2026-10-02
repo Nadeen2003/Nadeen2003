@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nadeen 👋
 
-<!--
-**Nadeen2003/Nadeen2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer in progress, focused on building real-world projects and strengthening my skills in JavaScript, Node.js, APIs, and databases.
 
-Here are some ideas to get you started:
+## Tech I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- REST APIs
+- Git & GitHub
+- HTML & CSS
+
+## Current Project
+
+### StockFlow
+Inventory management system for managing products, categories, stock levels, and inventory transactions.
+
+Currently building the project step by step and expanding it as I learn new backend technologies.
+
+## Currently Learning
+
+- Node.js
+- Express
+- SQL / PostgreSQL
+- TypeScript
+- Backend Architecture
+
+## Coding Practice
+
+- LeetCode: [My LeetCode Profile](https://leetcode.com/u/Nadeen23/)
+
+## Connect
+
+- LinkedIn: [Nadeen Hassania](https://www.linkedin.com/in/nadeenhassania/)
+- Email: hassanianadeen3@gmail.com
