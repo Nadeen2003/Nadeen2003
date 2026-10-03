@@ -28,6 +28,7 @@ Currently building the project step by step and expanding it as I learn new back
 ## Coding Practice
 
 - LeetCode: [My LeetCode Profile](https://leetcode.com/u/Nadeen23/)
+- Codewars: [My Codewars Profile](https://www.codewars.com/users/Nadeen2003)
 
 ## Connect
 
